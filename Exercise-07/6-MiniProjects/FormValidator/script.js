@@ -1,0 +1,1 @@
+chk.onclick=()=>{ out.textContent=user.value? "OK":"Input empty"; };
