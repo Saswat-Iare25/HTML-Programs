@@ -1,0 +1,10 @@
+.box {
+    width: 150px;
+    height: 80px;
+    background: lightblue;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid black;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+}
