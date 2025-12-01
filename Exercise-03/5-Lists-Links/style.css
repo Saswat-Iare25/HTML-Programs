@@ -1,0 +1,26 @@
+/* Unordered list styling */
+.custom-list {
+    list-style-type: square;
+    color: darkblue;
+}
+
+/* Ordered list styling */
+.custom-ol {
+    list-style-type: upper-roman;
+    color: darkred;
+}
+
+/* Link pseudo-classes */
+a:link {
+    color: blue;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+a:active {
+    color: green;
+}
