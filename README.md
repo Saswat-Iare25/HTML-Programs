@@ -33,14 +33,14 @@ Each exercise contains:
 
 ---
 
-## 🚀 How to Run the Files
+##  How to Run the Files
 
-### 🔹 For HTML/CSS/JS Projects  
+###  For HTML/CSS/JS Projects  
 Just open the `index.html` file in any browser (Chrome recommended).
 
 ---
 
-## ⚛️ React Project Setup (Copy–Paste Snippet)
+##  React Project Setup (Copy–Paste Snippet)
 
 ```bash
 # Install dependencies
@@ -68,7 +68,7 @@ npx tailwindcss init -p
 
 ---
 
-## 🎯 Purpose of This Repository
+##  Purpose of This Repository
 
 This repository demonstrates:
 - Understanding of HTML semantic structure  
@@ -81,5 +81,5 @@ This repository demonstrates:
 
 ---
 
-## 👨‍💻 Author  
+##  Author  
 **Saswat Rath**
